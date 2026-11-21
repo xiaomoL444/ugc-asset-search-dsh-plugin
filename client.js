@@ -13,7 +13,7 @@
  */
 
 window.__ModuleLoader__.load({
-  id: 'ugc-asset-search',
+  id: 'miliastra-ugc-asset-search',
   factory(require) {
     const React = require('react')
     const h = React.createElement
