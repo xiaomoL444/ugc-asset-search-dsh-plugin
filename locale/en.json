@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Miliastra assets",
+    "description": "Ask for a sound effect, visual effect or music track in the conversation and the agent searches the local Miliastra Wonderland catalog with the same rules, then draws the candidates as asset cards below its answer: name, id, playback, effect video, details and a source link, expandable into a right-side drawer. Search and listing run locally against the ugc-asset-search cache at ~/.cache/ugc-asset-search-v1; a first sync reads the public OSS catalog and preview metadata once, and that is the plugin's only network request. Audio, effect video and covers stream from the public cloud on demand, and music opens on NetEase Music. Original web search page: https://tool.xiaomol444.xyz/AISearch — turning the plugin off removes the cards and the tool together.",
+    "detail": "docs/DETAIL.md"
+  }
+}
